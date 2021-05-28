@@ -1,11 +1,11 @@
 # primal-autosplitter
 
-##Introduction
+## Introduction
 This is a script which you can use when speedrunning Primal to auto split.
 Load remover is also included.
 Timer will auto start after you skip the first cutscene.
 
-##Required
+## Required
 [This](https://drive.google.com/file/d/15SuWxykrVquMSytTY2lkvTD6gA7ekgdq/view?usp=sharing) version of the PCSX2 emulator is required.
 Works only on NTSC and Japanese releases of the game.
 
@@ -19,6 +19,6 @@ To use the autosplitter:
 - use "Browse" to set the path to the file you downloaded
 - click ok and save layout
 
-#Splits
+## Splits
 Use [these](https://drive.google.com/file/d/1He5zy5mVoARN-nppMyla5R0TyaOhPfBN/view?usp=sharing) splits with LiveSplit.
 To use them, go "Open Splits / From file".
